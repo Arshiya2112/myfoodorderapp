@@ -1,0 +1,177 @@
+[
+    {
+        "id": "m1",
+        "name": "Butter Chicken",
+        "price": "899",
+        "description": "Tender chicken cooked in a creamy tomato-based curry with rich Indian spices",
+        "image": "images/butter-chicken.jpg"
+    },
+    {
+        "id": "m2",
+        "name": "Paneer Tikka",
+        "price": "749",
+        "description": "Marinated paneer cubes grilled with onions, capsicum and spices",
+        "image": "images/paneer-tikka.jpg"
+    },
+    {
+        "id": "m3",
+        "name": "Biryani",
+        "price": "999",
+        "description": "Aromatic basmati rice layered with marinated chicken, mutton or vegetables",
+        "image": "images/biryani.jpg"
+    },
+    {
+        "id": "m4",
+        "name": "Masala Dosa",
+        "price": "399",
+        "description": "Crispy rice crepe stuffed with spiced potato filling, served with chutneys and sambar",
+        "image": "images/dosa.jpg"
+    },
+    {
+        "id": "m5",
+        "name": "Palak Paneer",
+        "price": "849",
+        "description": "Cottage cheese cubes simmered in a creamy spinach curry with garlic and spices",
+        "image": "images/palak-paneer.jpg"
+    },
+    {
+        "id": "m6",
+        "name": "Chole Bhature",
+        "price": "499",
+        "description": "Spiced chickpeas served with fluffy deep-fried bread",
+        "image": "images/chole.jpeg"
+    },
+    {
+        "id": "m7",
+        "name": "Dal Makhani",
+        "price": "649",
+        "description": "Slow-cooked black lentils and kidney beans in a rich, buttery tomato gravy",
+        "image": "images/dal-makhani.jpg"
+    },
+    {
+        "id": "m8",
+        "name": "Samosa",
+        "price": "149",
+        "description": "Deep-fried pastry filled with spiced potatoes and peas, served with chutney",
+        "image": "images/samosa.jpg"
+    },
+    {
+        "id": "m9",
+        "name": "Chicken Tikka Masala",
+        "price": "899",
+        "description": "Marinated chicken chunks in a tangy tomato-cream sauce with Indian spices",
+        "image": "images/chicken.jpg"
+    },
+    {
+        "id": "m10",
+        "name": "Aloo Gobi",
+        "price": "399",
+        "description": "Cauliflower and potatoes stir-fried with turmeric, cumin and coriander",
+        "image": "images/aloo-gobi.jpg"
+    },
+    {
+        "id": "m11",
+        "name": "Hyderabadi Haleem",
+        "price": "899",
+        "description": "A slow-cooked stew of wheat, lentils and meat, garnished with fried onions",
+        "image": "images/haleem.jpeg"
+    },
+    {
+        "id": "m12",
+        "name": "Gulab Jamun",
+        "price": "149",
+        "description": "Soft milk dumplings soaked in rose-flavoured sugar syrup",
+        "image": "images/gulab-jamun.jpg"
+    },
+    {
+        "id": "m13",
+        "name": "Dim Sum",
+        "price": "399",
+        "description": "Bite-sized portions of steamed or fried dishes served in bamboo baskets",
+        "image": "images/dimsum.jpeg"
+    },
+    {
+        "id": "m14",
+        "name": "Wontons",
+        "price": "299",
+        "description": "Stuffed dumplings served fried or in a flavourful soup",
+        "image": "images/wontons.jpg"
+    },
+    {
+        "id": "m15",
+        "name": "Manchurian",
+        "price": "699",
+        "description": "Fried vegetable or chicken balls tossed in a tangy Indo-Chinese sauce",
+        "image": "images/manchurian.jpg"
+    },
+    {
+        "id": "m16",
+        "name": "Spring Rolls",
+        "price": "249",
+        "description": "Crispy rolls filled with vegetables or meat, served with dipping sauce",
+        "image": "images/spring-rolls.jpg"
+    },
+    {
+        "id": "m17",
+        "name": "Dumplings",
+        "price": "299",
+        "description": "Steamed or fried dough filled with minced meat, begetables or seafood",
+        "image": "images/dumplings.jpg"
+    },
+    {
+        "id": "m18",
+        "name": "Hot and Sour Soup",
+        "price": "249",
+        "description": "Spicy and tangy soup with mushrooms, tofu and vegetables",
+        "image": "images/soup.jpg"
+    },
+    {
+        "id": "m19",
+        "name": "Chow Mein",
+        "price": "399",
+        "description": "Crispy noodles stir-fried with meat, vegetables and a flavourful sauce",
+        "image": "images/chowmein.jpeg"
+    },
+    {
+        "id": "m20",
+        "name": "Malai Kofta",
+        "price": "899",
+        "description": "Fried paneer and potato dumplings in a creamy, spiced tomato-based curry",
+        "image": "images/malai-kofta.jpg"
+    },
+    {
+        "id": "m21",
+        "name": "Margherita Pizza",
+        "price": "499",
+        "description": "Classic pizza topped with tomato sauce, fresh mozarella and basil",
+        "image": "images/margherita-pizza.jpg"
+    },
+    {
+        "id": "m22",
+        "name": "Lasagna",
+        "price": "799",
+        "description": "Layers of pasta, meat sauce and creamy bechamel baked to perfection",
+        "image": "images/lasagna.jpeg"
+    },
+    {
+        "id": "m23",
+        "name": "Tiramisu",
+        "price": "399",
+        "description": "Coffee-flavored dessert made with mascarpone, ladyfingers and cocoa powder",
+        "image": "images/tiramisu.jpg"
+    },
+    {
+        "id": "m24",
+        "name": "Lemon Chicken",
+        "price": "799",
+        "description": "Chicken in a tangy lemon-based sauce with a touch of sweetness",
+        "image": "images/lemon-chicken.jpg"
+    },
+    {
+        "id": "m25",
+        "name": "Crispy Honey Chilli Potatoes",
+        "price": "499",
+        "description": "Fried potato wedges tossed in a sweet and spicy honey chilli sauce",
+        "image": "images/chilli-potato.jpg"
+    }
+]
