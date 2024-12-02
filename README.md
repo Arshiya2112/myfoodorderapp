@@ -1,8 +1,9 @@
-# React + Vite
+# DineDash - A Food Ordering App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## A Food Order application enabling users to browse, add items to the cart and order seamlessly.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features -
+1. Browse Menu from a list of delicacies.
+2. Add items to cart and view them dynamically.
+3. Manage orders through cart functionality.
+4. Easy-to-use and visually appealing interface.
